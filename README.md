@@ -1,5 +1,5 @@
 # Cancer-Detection-Challange
-Cancer detection challange on Kaggle
+Cancer detection challenge on Kaggle
 Achieved 0.9481 public score on https://www.kaggle.com/c/histopathologic-cancer-detection competition.
 
 ![](fig1.png)
